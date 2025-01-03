@@ -18,7 +18,7 @@
 - Keyboard backlight (F5/F6)
 - Touchpad including tap-to-click, scrolling, mouse buttons (can be disable with prt scr key)
 
-![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Ventura/blob/main/img/macOS%20Ventura%20w%20Apple%20Watch%20Ultra%201600x900.png)
+![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Sequoia/blob/main/img/Sequoia%20running%20on%20HP%20840%20G3.png)
 
 ## Not Working
 - No Sound. To fix codec
