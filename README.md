@@ -58,6 +58,6 @@ Power Management Options:
 
 ## Credits 
 OSXLatitude - Jake Lo  
-ikip
+ikip  
 Opencore Dev Team  
 
